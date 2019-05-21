@@ -1,2 +1,2 @@
-# mweb3Waves2
+# mweb3Waves
 Mastering Web3 with Waves
